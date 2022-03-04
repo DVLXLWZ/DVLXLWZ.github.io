@@ -15,8 +15,8 @@
 
 ## Education
 
-> + **2019——Now: Shandong University;**
-> + **2016——2019: High School;**
+> + **2019 —— Now: Shandong University —— Undergraduate;**
+> + **2016 —— 2019: High School;**
 
 ## Some Notes About Mathematics
 
