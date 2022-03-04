@@ -1,10 +1,10 @@
 # Liu Xiaolong's Homepage
 ## About me
-#### Basic Information
+### Basic Information
 <table border="0">
   <tr>
     <td width="80%">
-      <h1>Liu Xiaolong</h1>
+      <h2>Liu Xiaolong</h2>
       <p><b>Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-#### ss
+### ss
 
 ## Education
 
