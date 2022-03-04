@@ -20,7 +20,7 @@
 
 ## Some Notes About Mathematics
 > + [Spectral Sequences](/SpectralSequence.pdf)
-> + [Errata for Illusie's Topics in Algebraic Geometry](/SpectralSequence.pdf)
+> + [Errata for Illusie's Topics in Algebraic Geometry](/Illusie Errata.pdf)
 
 ## My Email and Phone Number
 > + **Email: 15834015310@163.com**
