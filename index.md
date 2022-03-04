@@ -3,4 +3,6 @@
 
 ## Education
 
+## Some Notes About Mathematics
+
 ## My Email and Phone Number
