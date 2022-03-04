@@ -25,7 +25,9 @@
 > + **2016 —— 2019: High School;**
 
 ## Some Notes About Mathematics
-> + [Spectral Sequences](/SpectralSequence.pdf)
+> + [Spectral Sequences](/SpectralSequence.pdf): This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
+application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
+
 > + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/04)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
 ## My Email and Phone Number
