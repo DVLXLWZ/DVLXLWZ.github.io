@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="80%">
-      <h2>Liu Xiaolong</h2>
+      <h3>Name: Liu Xiaolong</h3>
       <p><b>Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
