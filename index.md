@@ -20,7 +20,7 @@
 
 ## Some Notes About Mathematics
 > + [Spectral Sequences](/SpectralSequence.pdf)
-> + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf)
+> + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/04)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf)
 
 ## My Email and Phone Number
 > + **Email: 15834015310@163.com**
