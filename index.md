@@ -16,8 +16,10 @@
 ## Education
 <table border="0">
   <tr>
+    <td width="100%">
       <p><b>2019--Now: Shandong University;</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
+    </td>
   </tr>
 </table>
 
