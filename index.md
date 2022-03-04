@@ -8,7 +8,7 @@
       <p><b>Education Background: Bachelor Degree in Mathematics</b></p>
     </td>
     <td width="25%">
-      <img src="/MyPhoto.jpg" width="40%"> 
+      <img src="/MyPhoto.jpg" width="60%"> 
     </td>
   </tr>
 </table>
