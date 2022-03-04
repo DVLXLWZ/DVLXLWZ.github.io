@@ -5,7 +5,7 @@
     <td width="75%">
       <h1>Liu Xiaolong</h1>
       <p><b>Home Add: China-Shanxi-Taiyuan</b></p>
-      <p><b>Education Background: Bachelor Degree in Mathematics</b></p>
+      <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
     <td width="25%">
       <img src="/MyPhoto.jpg" width="80%"> 
@@ -14,8 +14,12 @@
 </table>
 
 ## Education
-
-#### 2019--Now: Shandong University;
+<table border="0">
+  <tr>
+      <p><b>2019--Now: Shandong University;</b></p>
+      <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
+  </tr>
+</table>
 
 ## Some Notes About Mathematics
 
