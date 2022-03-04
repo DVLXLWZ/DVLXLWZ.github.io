@@ -2,13 +2,13 @@
 ## About me
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="80%">
       <h1>Liu Xiaolong</h1>
-      <p><b>Home Add: China -- Shanxi -- Taiyuan</b></p>
+      <p><b>Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
-    <td width="25%">
-      <img src="/MyPhoto.jpg" width="80%"> 
+    <td width="20%">
+      <img src="/MyPhoto.jpg" width="100%"> 
     </td>
   </tr>
 </table>
