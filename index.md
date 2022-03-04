@@ -12,7 +12,10 @@
     </td>
   </tr>
 </table>
+
 ## Education
+
+#### 2019--Now: Shandong University;
 
 ## Some Notes About Mathematics
 
