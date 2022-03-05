@@ -26,7 +26,7 @@
 > + **2016 —— 2019: (High School);**
 
 ## Some Notes About Mathematics
-> + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/04.)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
+> + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/05.)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
 > + [Some Notes for Goertz and Wedhorn's AGI book 2rd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
@@ -42,4 +42,4 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 ## Links
 > [Shandong University](https://www.sdu.edu.cn/)
 > 
-> [Taishan Collage](https://www.tsxt.sdu.edu.cn/)
+> [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/)
