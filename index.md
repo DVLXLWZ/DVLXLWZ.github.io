@@ -31,7 +31,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/04.)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
-> + [Some Notes for Goertz and Wedhorn's AGI book 2rd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/book/10.1007/978-3-658-30733-2). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
+> + [Some Notes for Goertz and Wedhorn's AGI book 2rd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
 ## My Email and Phone Number
 > + **Email: 15834015310@163.com**
