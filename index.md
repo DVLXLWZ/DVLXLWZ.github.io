@@ -18,12 +18,12 @@
 > I’m an undergraduate student who is interested to geometry, more percisely, algebraic geometry (geometrical instead of arithmetical) and the geometry less soft (such as complex geometry).
 
 ### My CV
-> **Not upload Yet!**
+> **Not upload yet!**
 
 ## Education
 
-> + **2019 —— Now: Shandong University —— Undergraduate;**
-> + **2016 —— 2019: High School;**
+> + **2019 —— Now: (Undergraduate) Shandong University;**
+> + **2016 —— 2019: (High School);**
 
 ## Some Notes About Mathematics
 > + [Errata for Illusie's Topics in Algebraic Geometry](/IllusieErrata.pdf) **(Not finished yet. Update at 2022/03/04.)** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
