@@ -7,7 +7,7 @@
       <h3>Name: Liu Xiaolong</h3>
       <p><b>Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
-      <p><b>Favorite Literature: 《前赤壁赋》——苏轼</b></p>
+      <p><b>Favorite Literature: 《前赤壁赋》 —— 苏轼</b></p>
     </td>
     <td width="20%">
       <img src="/MyPhoto.jpg" width="100%"> 
