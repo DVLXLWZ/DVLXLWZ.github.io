@@ -33,7 +33,7 @@
 > + [Spectral Sequences](/SpectralSequence.pdf): This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
 application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
 
-> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf) **The language is chinese here.** This is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
+> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## My Email and Phone Number
 > + **Email: 15834015310@163.com or 1225046792@qq.com**
