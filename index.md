@@ -48,3 +48,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > [Shandong University](https://www.sdu.edu.cn/)
 > 
 > [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/)
+
+
+## More Links I Prefer
+> [The Stacks Project](https://stacks.math.columbia.edu/)
