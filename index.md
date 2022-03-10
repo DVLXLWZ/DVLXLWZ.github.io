@@ -40,9 +40,9 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 ## Classes I Have Taken
 > **Not upload yet!**
 
-## My Email and Phone Number
-> + **Email: 15834015310@163.com or 1225046792@qq.com**
-> + **Phone Number: +86 158 3401 5310**
+## My Emails
+> + **Email 1: 15834015310@163.com**
+> + **Email 2: 201900170025@mail.sdu.edu.cn**
 
 ## Links
 > [Shandong University](https://www.sdu.edu.cn/)
