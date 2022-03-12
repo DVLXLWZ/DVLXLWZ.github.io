@@ -38,17 +38,19 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is Chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## Some Classes and Notes I have Taken (Not finished!!!)
-> + **(2020-2021 Autumn)Algebra:** Textbook: Undergraduate Algebra-3rd Edition by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
+> + **(2022 Spring)Fundamentals in Number Theory:** [](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
 
-> + **(2020-2021 Autumn)ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
+> + **(2021 Spring)Complex Analysis:**  My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
-> + **(2020-2021 Autumn)Basic Physics:**  My notes about physics: [Basic Physics I](/Physics1.pdf)  **(The language is English here.)**,[Basic Physics II](/Physics2.pdf)  **(The language is Chinese here.)**.
+> + **(2021 Spring)Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book. The final grade is based on my notes on algebra and geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
 
-> + **(2020-2021 Spring)Complex Analysis:**  My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
+> + **(2021 Spring)Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
 
-> + **(2020-2021 Spring)Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book. The final grade is based on my notes on algebra and geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
+> + **(2020 Autumn)Algebra:** Textbook: Undergraduate Algebra-3rd Edition by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
 
-> + **(2020-2021 Spring)Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
+> + **(2020 Autumn)ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
+
+> + **(2020 Autumn)Basic Physics:**  My notes about physics: [Basic Physics I](/Physics1.pdf)  **(The language is English here.)**,[Basic Physics II](/Physics2.pdf)  **(The language is Chinese here.)**.
 
 ## My Emails
 > + **Email 1: 15834015310@163.com**
