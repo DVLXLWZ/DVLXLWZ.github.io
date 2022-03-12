@@ -35,20 +35,20 @@
 > + [Spectral Sequences](/SpectralSequence.pdf): This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
 application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
 
-> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
+> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is Chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## Some Classes and Notes I have Taken
-> + **Algebra:**  [Basic Galois Theory](/Galois.pdf)
+> + **Algebra:** Textbook: Undergraduate Algebra-3rd Edition by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
 
-> + **ODEs:**  [Review of Basic ODEs](/ODE.pdf)
+> + **ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
 
-> + **Complex Analysis:**  [Homeworks of Complex Analysis](/complexanalHWAll.pdf)
+> + **Complex Analysis:**  My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
-> + **Basic Physics:**  [Basic Physics I](/Physics1.pdf),[Basic Physics II](/Physics2.pdf)
+> + **Basic Physics:**  My notes about physics: [Basic Physics I](/Physics1.pdf)  **(The language is English here.)**,[Basic Physics II](/Physics2.pdf)  **(The language is Chinese here.)**.
 
-> + **Algebraic Geometry I:**  [Basic Hodge Theory on Complex Manifolds](HODGE.pdf)
+> + **Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book. The final grade is based on my notes on algebra and geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
 
-> + **Basic Probability Theory:**  [Basic Probability Theory](/Probability.pdf)
+> + **Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
 
 ## My Emails
 > + **Email 1: 15834015310@163.com**
