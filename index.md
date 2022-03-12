@@ -38,17 +38,17 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## Some Classes and Notes I have Taken
-> + **Algebra:** 
+> + **Algebra:**  [Basic Galois Theory](/Galois.pdf)
 
-> + **ODE:**
+> + **ODEs:**  [Review of Basic ODEs](/ODE.pdf)
 
-> + **Complex Analysis:**
+> + **Complex Analysis:**  [Homeworks of Complex Analysis](/complexanalHWAll.pdf)
 
-> + **Basic Physics:**
+> + **Basic Physics:**  [Basic Physics I](/Physics1.pdf),[Basic Physics II](/Physics2.pdf)
 
-> + **Algebraic Geometry I:**
+> + **Algebraic Geometry I:**  [Basic Hodge Theory on Complex Manifolds](HODGE.pdf)
 
-> + **Basic Probability Theory:**
+> + **Basic Probability Theory:**  [Basic Probability Theory](/Probability.pdf)
 
 ## My Emails
 > + **Email 1: 15834015310@163.com**
