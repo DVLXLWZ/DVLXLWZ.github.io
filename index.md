@@ -29,7 +29,7 @@
 ## Some Notes About Mathematics
 > + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf) **(Not finished yet. Update at 2022/03/15.)** We will fix some typo and errors in this book and take some notes in this file. The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
-> + [Some Notes for Goertz and Wedhorn's AGI book 2rd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
+> + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
 > + [Spectral Sequences](/SpectralSequence.pdf): This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
 application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
