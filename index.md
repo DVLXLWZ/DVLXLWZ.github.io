@@ -37,7 +37,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is Chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## Undergraduate research
-> + **2020.12 – 2021.11** Basic Algebraic Geometry (advisor: Yin hongbo)
+> + **2020.12 – 2021.11** Basic Algebraic Geometry (advisor: Yin Hongbo): We learned some basic scheme theory and cohomology and some basic complex geommetry.
 
 ## Some Classes and Notes I have Taken (Not finished!!!)
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
