@@ -27,14 +27,14 @@
 > + **2019 —— Now: (Undergraduate) Shandong University;**
 
 ## Some Notes About Mathematics
-> + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf) **(Not finished yet. Update at 2022/03/20.)** We will fix some typo and errors in this book and take some notes in this file. The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
+> + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/21)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
-> + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf) **(Not finished yet. Update at 2022/02/20.)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
+> + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf): **(Not finished yet. Update at 2022/02/20)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
-> + [Spectral Sequences](/SpectralSequence.pdf): This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
+> + [Spectral Sequences](/SpectralSequence.pdf): **(Finished yet)** This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
 application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
 
-> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(The language is Chinese here.)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
+> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 ## Undergraduate research
 > + **2020.12 – 2021.11** Basic Algebraic Geometry (advisor: Yin Hongbo): We learned some basic scheme theory and cohomology and some basic complex geommetry.
