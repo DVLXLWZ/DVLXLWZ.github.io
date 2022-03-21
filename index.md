@@ -40,6 +40,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **2020.12 – 2021.11** Basic Algebraic Geometry (advisor: Yin Hongbo): We learned some basic scheme theory and cohomology and some basic complex geommetry.
 
 ## Some Classes and Notes I have Taken (Not finished!!!)
+ **Aim to make the younger students more convenience**
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
 
 > + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
