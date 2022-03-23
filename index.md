@@ -38,16 +38,16 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
-## Undergraduate research
+## Undergraduate research and Summer School
+> + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
+> Some of my grades: (1) Complex Geometry: 100/100;
+> (2) Riemannian Geometry: 90/100.
+
 > + **2020.12 – 2021.11** Basic Algebraic Geometry (advisor: Yin Hongbo): We learned some basic scheme theory and cohomology and some basic complex geommetry.
 
 ## Some Classes and Notes I have Taken (Not finished!!!)
  **Aim to make the younger students more convenience**
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
-
-> + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
-> Some of my grades: (1) Complex Geometry: 100/100;
-> (2) Riemannian Geometry: 90/100.
 
 > + **(2021 Spring) Complex Analysis:**  My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
