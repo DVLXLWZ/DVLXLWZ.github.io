@@ -73,3 +73,6 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 ## More Links I Prefer
 > [The Stacks Project](https://stacks.math.columbia.edu/)
+
+## Links of My friends
+> [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
