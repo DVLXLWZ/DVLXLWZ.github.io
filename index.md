@@ -65,8 +65,14 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **Email 1: 15834015310@163.com**
 > + **Email 2: 201900170025@mail.sdu.edu.cn**
 
-## Links I Prefer
+## Some Famous Links I Prefer
 > [The Stacks Project](https://stacks.math.columbia.edu/)
+
+> [Allen Hatcher's Homepage](https://pi.math.cornell.edu/~hatcher/)
+
+> [J.S. Milne's Homepage](https://www.jmilne.org/math/)
+
+> [Ravi Vakil's Homepage](https://math.stanford.edu/~vakil/)
 
 ## Links of My Friends
 > [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
