@@ -26,7 +26,7 @@
 
 > + **2019 —— Now: (Undergraduate) Shandong University;**
 
-> + **2016 - 2019: (High School) Taiyuan No.2 Foreign Language School**
+> + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
 ## Some Notes About Mathematics
 > + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/23)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
