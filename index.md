@@ -24,7 +24,7 @@
 
 ## Education
 
-> + **2019 —— Now: (Undergraduate) Shandong University;**
+> + **2019 —— Now: (Undergraduate) Shandong University([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
 
 > + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
@@ -65,13 +65,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **Email 1: 15834015310@163.com**
 > + **Email 2: 201900170025@mail.sdu.edu.cn**
 
-## Links
-> [Shandong University](https://www.sdu.edu.cn/)
-> 
-> [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/)
-
-
-## More Links I Prefer
+## Links I Prefer
 > [The Stacks Project](https://stacks.math.columbia.edu/)
 
 ## Links of My Friends
@@ -81,5 +75,3 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > My ![Visitor Count](https://profile-counter.glitch.me/DVLXLWZ/count.svg) visitors.
 
 > ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DVLXLWZ&show_icons=true&theme=tokyonight)
-
->
