@@ -77,4 +77,9 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 ## Links of My Friends
 > [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
 
-![Visitor Count](https://profile-counter.glitch.me/DVLXLWZ/count.svg)
+## Others
+> My ![Visitor Count](https://profile-counter.glitch.me/DVLXLWZ/count.svg) visitors.
+
+> ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DVLXLWZ&show_icons=true&theme=tokyonight)
+
+>
