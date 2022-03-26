@@ -24,7 +24,7 @@
 
 ## Education
 
-> + **2019 —— Now: (Undergraduate) Shandong University([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
+> + **2019 —— Now: (Undergraduate) Shandong University( [Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
 
 > + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
