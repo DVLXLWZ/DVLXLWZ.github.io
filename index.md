@@ -47,7 +47,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 ## Some Courses and Notes I have Taken in SDU
  **Aim to make the younger students more convenience**
- > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 1](/Project_1B-Draft1.pdf) **(At 2022/03/28)**
+ > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 1](/Project_1B-Draft1.pdf) **(At 2022/03/28)** My project is
+ > **Two-Dimensional Distributions,Marginals and Covariance Structure**.
  
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
 
