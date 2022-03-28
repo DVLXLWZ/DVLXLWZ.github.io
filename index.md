@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td width="80%">
-      <h3> + Name: Liu Xiaolong (刘 晓龙)</h3>
+      <h3> + Name: Liu Xiaolong (刘 晓龙 or 劉 暁龍)</h3>
       <p><b> + Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b> + Education Background for Now: Bachelor Degree in Mathematics</b></p>
       <p><b> + Favorite Literature: 《前赤壁赋》 —— 苏轼</b></p>
