@@ -29,7 +29,7 @@
 > + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
 ## Some Notes About Mathematics
-> + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/23)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
+> + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/28)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
 > + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf): **(Not finished yet. Update at 2022/02/20)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
@@ -47,7 +47,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 ## Some Courses and Notes I have Taken in SDU
  **Aim to make the younger students more convenience**
- > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 1](/Project_1B.pdf) **(At 2022/03/27)**
+ > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 1](/Project_1B-Draft1.pdf) **(At 2022/03/28)**
  
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
 
