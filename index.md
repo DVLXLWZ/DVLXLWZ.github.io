@@ -40,8 +40,9 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 ## Undergraduate Research and Summer School
 > + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
-> My grades: (1) Complex Geometry: 100/100;
-> (2) Riemannian Geometry: 90/100.
+>> My grades: (1) Complex Geometry: 100/100;
+>> 
+>> (2) Riemannian Geometry: 90/100.
 
 > + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry.
 
