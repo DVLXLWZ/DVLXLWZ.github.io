@@ -40,7 +40,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 ## Undergraduate Research and Summer School
 > + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
-> Some of my grades: (1) Complex Geometry: 100/100;
+> My grades: (1) Complex Geometry: 100/100;
 > (2) Riemannian Geometry: 90/100.
 
 > + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry.
@@ -52,13 +52,13 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
  
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
 
-> + **(2021 Spring) Complex Analysis:**  My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
+> + **(2021 Spring) Complex Analysis:**  We mainly use an easy book from China and E. Stein's famous book. My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
-> + **(2021 Spring) Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book. The final grade is based on my notes on algebra and geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
+> + **(2021 Spring) Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book (I think its so difficult). The final grade is based on the students notes about some topics in algebra geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
 
 > + **(2021 Spring) Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
 
-> + **(2020 Autumn) Algebra:** Textbook: Undergraduate Algebra-3rd Edition by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
+> + **(2020 Autumn) Algebra:** Textbook: 'Undergraduate Algebra-3rd Edition' by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
 
 > + **(2020 Autumn) ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
 
