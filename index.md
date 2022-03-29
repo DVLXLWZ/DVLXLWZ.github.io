@@ -20,7 +20,7 @@
 > I’m an undergraduate student who is interested to geometry, more percisely, algebraic geometry (geometrical instead of arithmetical) and the geometry less soft (such as complex geometry).
 
 ### My CV
-> [My CV](/cv_1.pdf).
+> [My CV](/cv_1.pdf). CV in Chinese: [My CV in Chinese](/刘晓龙CV.pdf)
 
 ## Education
 
