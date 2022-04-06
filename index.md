@@ -46,6 +46,14 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry.
 
+## Some Seminars I have Taken
+> + **(2021 Autumn) Seminar of Algebraic Topology** We discuss the first two chapters of R. Nott and L. W. Tu's Differential Froms in Algebraic Topology. I discussed the section 5 and the half of section 11. Here is my lectures:
+>> My Lectures: (1) [Section 5](/2021ATSe1.pdf);
+>>
+>> (2) [Section 11](/2021ATSe2.pdf).
+
+> + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes:[Section6.1](/2020HASe.pdf).
+
 ## Some Courses and Notes I have Taken in SDU
  **Aim to make the younger students more convenience**
  > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 1](/Project_1B-Draft1.pdf) **(At 2022/03/28)** My project is
