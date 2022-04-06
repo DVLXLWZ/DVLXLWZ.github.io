@@ -31,6 +31,8 @@
 ## Some Notes About Mathematics
 > + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/28)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
+> + **Review of Basic Algebraic Topology** This is a review of basic algebraic topology including the first three chapter of A. Hatcher's book, including fundamental groups, covering spaces, homology and cohomology theory. Moreover we give some proofs of some famous topology theorems, such as Jordan curve theorem, Jordan-Brouwer separation theorem and orientation of compact hypersurface in Rn.
+
 > + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf): **(Not finished yet. Update at 2022/02/20)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
 > + [Spectral Sequences](/SpectralSequence.pdf): **(Finished yet)** This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
