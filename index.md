@@ -46,7 +46,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 >> 
 >> (2) Riemannian Geometry: 90/100.
 
-> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf)
+> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf).
 
 ## Some Seminars I have Taken
 > + **(2021 Autumn) Seminar of Algebraic Topology** We discuss the first two chapters of R. Nott and L. W. Tu's Differential Froms in Algebraic Topology. I discussed the section 5 and the half of section 11. Here is my lectures:
