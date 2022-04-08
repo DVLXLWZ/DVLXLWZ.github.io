@@ -31,7 +31,7 @@
 ## Some Notes About Mathematics
 > + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/28)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
-> + [Review of Basic Algebraic Topology](/SomeAT.pdf):  **(Finished yet at 2022/04/06)** This is a review of basic algebraic topology including the first three chapter of A. Hatcher's book, including fundamental groups, covering spaces, homology and cohomology theory. Moreover we give some proofs of some famous topology theorems, such as Jordan curve theorem, Jordan-Brouwer separation theorem and orientation of compact hypersurface in Rn.
+> + [Review of Basic Algebraic Topology](/SomeAT.pdf):  **(Finished yet at 2022/04/06)** This is a review of basic algebraic topology including the first three chapter of A. Hatcher's book, including fundamental groups, covering spaces, homology and cohomology theory. Moreover we give some proofs of some famous topology theorems, such as Jordan curve theorem, Jordan-Brouwer separation theorem and orientation of compact hypersurface in $\mathbb{R}^n$.
 
 > + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf): **(Not finished yet. Update at 2022/02/20)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
 
@@ -46,7 +46,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 >> 
 >> (2) Riemannian Geometry: 90/100.
 
-> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry.
+> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf)
 
 ## Some Seminars I have Taken
 > + **(2021 Autumn) Seminar of Algebraic Topology** We discuss the first two chapters of R. Nott and L. W. Tu's Differential Froms in Algebraic Topology. I discussed the section 5 and the half of section 11. Here is my lectures:
@@ -54,7 +54,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 >>
 >> (2) [Section 11](/2021ATSe2.pdf).
 
-> + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes:[Section6.1](/2020HASe.pdf).
+> + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes: [Section6.1](/2020HASe.pdf).
 
 ## Some Courses and Notes I have Taken in SDU
  **Aim to make the younger students more convenience**
