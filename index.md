@@ -61,7 +61,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
  > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Version 2](/Project_1B-D2.pdf) **(At 2022/04/07)** My project is
  > **Two-Dimensional Distributions,Marginals and Covariance Structure**.
  
-> + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm)
+> + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
 > + **(2021 Spring) Complex Analysis:**  We mainly use an easy book from China and E. Stein's famous book. My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
