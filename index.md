@@ -63,6 +63,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
  
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
+> + **(2021 Autumn) Functional Analysis:** I read T. Buhler and D.A. Salamon's 'Functional Analysis' ([File](https://people.math.ethz.ch/~salamon/PREPRINTS/funcana.pdf)) and read chapter 1 to chapter 5.3. Here is my review note (in Chinese): [Functional Review](/FARe.pdf).
+
 > + **(2021 Spring) Complex Analysis:**  We mainly use an easy book from China and E. Stein's famous book. My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
 > + **(2021 Spring) Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book (I think its so difficult). The final grade is based on the students notes about some topics in algebra geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
