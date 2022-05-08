@@ -71,7 +71,10 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + **(2021 Spring) Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
 
-> + **(2020 Autumn) Algebra:** Textbook: 'Undergraduate Algebra-3rd Edition' by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
+> + **(2021 Spring) Linear Algebra:** My hand writing notes: [Linear Algebra Note](/Linear AlgebraNote.pdf) **(The language is Chinese here.)**.
+> Our Homework: [Linear Algebra HW](/LinearAlgHW.pdf) **(The language is Chinese here.)**.
+
+> + **(2020 Autumn) Abstract Algebra:** Textbook: 'Undergraduate Algebra-3rd Edition' by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
 
 > + **(2020 Autumn) ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
 
