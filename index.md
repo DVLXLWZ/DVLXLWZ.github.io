@@ -24,7 +24,7 @@
 
 ## Education
 
-> + **2019 —— Now: (Undergraduate) Shandong University ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
+> + **2019 —— Now: (Undergraduate) Shandong University - TaiShan Collage ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
 
 > + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
@@ -75,6 +75,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > Our Homework: [Linear Algebra HW](/LinearAlgHW.pdf) **(The language is Chinese here.)**.
 
 > + **(2020 Autumn) Abstract Algebra:** Textbook: 'Undergraduate Algebra-3rd Edition' by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
+
+> + **(2020 Autumn) Basic Fourier Analysis:** My notes: [Basic Fourier Analysis](/FourierNotes.pdf) **(The language is Chinese here.)**.
 
 > + **(2020 Autumn) ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
 
