@@ -48,7 +48,9 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf).
 
-## Some Seminars I have Taken
+## Some Seminars in Shandong University (Undergraduate)
+> + **(2021 Autumn) Seminar of Symplectic Geometry** We discuss the second chapters of D. Macduff and D. Salamon's Introduction to Symplectic Topology and the Chapter 1-7 in Ana Cannas da Silva's [book](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf). One of my lecture: [Moser's trick](/2022Symp1.pdf).
+
 > + **(2021 Autumn) Seminar of Algebraic Topology** We discuss the first two chapters of R. Nott and L. W. Tu's Differential Froms in Algebraic Topology. I discussed the section 5 and the half of section 11. Here is my lectures:
 >> My Lectures: (1) [Section 5](/2021ATSe1.pdf);
 >>
@@ -64,6 +66,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
 > + **(2021 Autumn) Functional Analysis:** I read T. Buhler and D.A. Salamon's 'Functional Analysis' ([File](https://people.math.ethz.ch/~salamon/PREPRINTS/funcana.pdf)) and read chapter 1 to chapter 5.3. Here is my review note (in Chinese): [Functional Review](/FARe.pdf).
+
+> + **(2021 Spring) Basic Topology:**  Mid-term Exam: [2021TopologyMid](/TopologyMid2021.pdf) and Final-term Exam:  [2021TopologyFinal](/TopologyFinal2021.pdf) **(The language is Chinese here.)**.
 
 > + **(2021 Spring) Complex Analysis:**  We mainly use an easy book from China and E. Stein's famous book. My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf)  **(The language is Chinese here.)**.
 
