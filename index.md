@@ -4,13 +4,13 @@
 
 <table border="0">
   <tr>
-    <td width="80%">
+    <td width="70%">
       <h3> + Name: Liu Xiaolong (刘 晓龙 or 劉 暁龍)</h3>
       <p><b> + Home Add: China - Shanxi - Taiyuan</b></p>
       <p><b> + Education Background for Now: Bachelor Degree in Mathematics</b></p>
       <p><b> + 桂华满兮明月辉，扶桑晓兮白日飞。玉颜灭兮蝼蚁聚，碧台空兮歌舞稀。与天道兮共尽，莫不委骨而同归。  ——《拟恨赋》李白</b></p>
     </td>
-    <td width="20%">
+    <td width="30%">
       <img src="/IMG_3788(20210725-132837).JPG" width="100%"> 
     </td>
   </tr>
