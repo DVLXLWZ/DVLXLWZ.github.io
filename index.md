@@ -17,7 +17,7 @@
 </table>
 
 ### About Me
-> I’m an undergraduate student who is interested to geometry, more percisely, algebraic geometry (geometrical instead of arithmetical) and the geometry less soft (such as complex geometry).
+> I’m an undergraduate student who is interested to algebraic geometry (geometrical instead of arithmetical).
 
 ### My CV
 > **Coming Soon.**
