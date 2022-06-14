@@ -101,6 +101,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > [Ravi Vakil's Homepage](https://math.stanford.edu/~vakil/)
 
+> [USTC Math Resources](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
+
 ## Links of My Friends
 > [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
 
