@@ -40,6 +40,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
+> + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
+
 ## Undergraduate Research and Summer School
 > + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
 >> My grades: (1) Complex Geometry: 100/100;
@@ -57,36 +59,6 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 >> (2) [Section 11](/2021ATSe2.pdf).
 
 > + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes: [Section6.1](/2020HASe.pdf).
-
-## Some Courses and Notes I have Taken in SDU
- **Aim to make the younger students more convenience**
- > + **(2022 Spring) Reading and Writing in Mathematics:** (Taught by Prof. Jordan Stoyanov) [Final](/Project_1B.pdf) **(At 2022/05/12)** My project is
- > **Two-Dimensional Distributions,Marginals and Covariance Structure**.
-
-> + **(2022 Spring) Fundamentals of PDEs:** xxx.
- 
-> + **(2022 Spring) Fundamentals in Number Theory:** Here is the homepage: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
-
-> + **(2021 Autumn) Functional Analysis:** I read T. Buhler and D.A. Salamon's 'Functional Analysis' ([File](https://people.math.ethz.ch/~salamon/PREPRINTS/funcana.pdf)) and read chapter 1 to chapter 5.3. Here is my review note (in Chinese): [Functional Review](/FARe.pdf).
-
-> + **(2021 Spring) Basic Topology:**  Mid-term Exam: [2021TopologyMid](/Topology2021Mid.pdf) and Final-term Exam:  [2021TopologyFinal](/TopologyFinal2021.pdf) **(The language is Chinese here.)**.
-
-> + **(2021 Spring) Complex Analysis:**  We mainly use an easy book from China and E. Stein's famous book. My Homeworks of Complex Analysis: [Homeworks of Complex Analysis](/complexanalHWAll.pdf). Final Exam: [CAFinal](/ComplexAnalysis2021Final.pdf) **(The language is Chinese here.)**.
-
-> + **(2021 Spring) Algebraic Geometry I:**  In this course we read Ch1.1-Ch1.5 of Hartshorne's book (I think its so difficult). The final grade is based on the students notes about some topics in algebra geometry. My notes: [Basic Hodge Theory on Complex Manifolds](HODGE.pdf) **(The language is English here.)**.
-
-> + **(2021 Spring) Basic Probability Theory:**  My notes: [Basic Probability Theory](/Probability.pdf) **(The language is Chinese here.)**.
-
-> + **(2021 Spring) Linear Algebra II:** My hand writing notes: [Linear Algebra Note](/Linear AlgebraNote.pdf) **(The language is Chinese here.)**.
-> Our Homework: [Linear Algebra HW](/LinearAlgHW.pdf) **(The language is Chinese here.)**.
-
-> + **(2020 Autumn) Abstract Algebra:** Textbook: 'Undergraduate Algebra-3rd Edition' by Serge Lang. My notes about Galois theory: [Basic Galois Theory](/Galois.pdf) **(The language is Chinese here.)**.
-
-> + **(2020 Autumn) Basic Fourier Analysis:** My notes: [Basic Fourier Analysis](/FourierNotes.pdf) **(The language is Chinese here.)**.
-
-> + **(2020 Autumn) ODEs:**  My notes about Basic ODEs: [Review of Basic ODEs](/ODE.pdf)  **(The language is Chinese here.)**. Our midterm exam: [ODEs Midterm](/ODEmid.pdf)  **(The language is Chinese here.)**.
-
-> + **(2020 Autumn) Basic Physics:**  My notes about physics: [Basic Physics I](/Physics1.pdf)  **(The language is English here.)**,[Basic Physics II](/Physics2.pdf)  **(The language is Chinese here.)**.
 
 ## My Emails
 > + **Email 1: 15834015310@163.com**
