@@ -29,6 +29,9 @@
 > + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
 ## Some Notes About Mathematics
+
+> + [Notes for Algebraic Spaces and Stacks by M. Olsson](/OlssonNotes.pdf): **(Not finished yet. Update at 2022/07/28)** I take some notes and add some details about the book Algebraic Spaces and Stacks written by Prof. Martin Olsson, aiming to study some basic theory of algebraic stacks.
+
 > + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/28)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
 > + [Review of Basic Algebraic Topology](/SomeAT.pdf):  **(Finished yet at 2022/05/06)** This is a review of basic algebraic topology including the first three chapter of A. Hatcher's book, including fundamental groups, covering spaces, homology and cohomology theory. Moreover we give some proofs of some famous topology theorems, such as Jordan curve theorem, Jordan-Brouwer separation theorem and orientation of compact hypersurface in $\mathbb{R}^n$.
